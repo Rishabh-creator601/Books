@@ -1,0 +1,56 @@
+  
+- 39:59 -> some more user fnxs
+
+-  1:03 -> fnxs for admin
+
+- 1:18 -> frontend starts
+
+
+
+
+
+
+### Image Path :  C:/Users/RISHABH/Pictures/images/<image>
+### Data Path :  C:/codes/machineL/data
+
+### Installing tf 1.x :  pip3 install https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.14.0-py3-none-any.whl
+### Tensorflow wheel files : https://github.com/fo40225/tensorflow-windows-wheel/blob/master/1.6.0/py36/CPU/sse2/tensorflow-1.6.0-cp36-cp36m-win_amd64.whl
+
+SYMBOLS :  🔴  ✔  🟢   🟡
+
+
+* OpenCV Manipualtion Techniques 🟢
+* RegExp 
+* Subplots 
+
+
+COMPUTER VISION TOPICS : OCR TESSERACT : NLP  +  COMPUTER VISION  🟡
+                       :  overfitting and underfitting 🟢
+                       : Learning rates , schedulers , decays ✔
+                       : Checking different optimziers like sgd , adam , rmsprop  🟢
+                       : Model CheckPoints  ✔
+                       : Batch Normalization ✔
+                       : Tranfer Learning : [LeNet , VGGNet ] 🟢
+                       : Saving and Loading Models  || Model Visualization 🟢
+                       : data annotation and labelling  🟢
+                       : FACE RECOGNITION : DeepFace , FaceNET on custom datasets  , MTCNN  🟢
+                       : GANS  => code with aarohi english channe; 🔴
+                       : VAE's and diffusion models (after dl/ml/gans/trans/) 🔴
+                       : Transformers  (campusx after 67  +  code with aarohi vision transformer playlist ) 🔴
+                       : Vision Transformers 🔴
+                       : INSTANCE SEGMENTATION :  MASK WALA R-CNN (SKIP) , only => YolAct does not have much tutorials available but you can try  ✔
+                       : MEDIAPIPE , YOLO  🟢
+
+
+5)  Model Building on different dataset 🟢
+
+0) :  webrtc with live smile detection complete  🟢
+
+ 
+NLP TOPICS : tokenization , padding  🟢   => (padding , multihot-encode )
+           : RegExp and cleaning texts  🟢
+           :  Embeddings  🟢
+           : Loading models from tensorflow-hub ❌
+           :  RNNS/LSTMS   🟢
+           : preatrained LSTMS embeddings like GLOVE  ❌
+           : IMDB classification || reuters  :  🟢 
