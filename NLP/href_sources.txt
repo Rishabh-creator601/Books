@@ -1,0 +1,4 @@
+
+stanford "Speech and Langauge Processing": 
+
+https://web.stanford.edu/~jurafsky/slp3/
