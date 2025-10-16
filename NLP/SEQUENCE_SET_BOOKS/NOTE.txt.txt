@@ -1,0 +1,4 @@
+1.starter  : very good for basics 
+           : part VIII and IX are left due encoder decoder sequence 
+
+           
