@@ -4,10 +4,10 @@
 
  
 
-### <u> Cheatsheets </u> 
+### <ins> Cheatsheets </ins> 
 1) Machine Learning Cheatsheet
 
-### <u> Cv </u> 
+### <ins> Cv </ins> 
 1) autoencoders and GANS 
 2) Deep Learning for Computer Vision - Image Classification, Object Detection and Face Recognition in Python by Jason Brownlee   
 3) deep-learning-for-vision-systems 
@@ -20,7 +20,7 @@
 10) OpenCV with Python Blueprints 
 11) Using Stable Diffusion with Python 
 
-### <u> Ethical_Hacking_ </u> 
+### <ins> Ethical_Hacking_ </ins> 
 1) Gray hat Python Python programming for hackers and reverse PDFDrive 
 2) Hacking APIs Breaking Web Application Programming Interfaces Corey 
 3) Justin Seitz Black Hat Python Python Programming for Hackers and 
@@ -31,14 +31,14 @@
 8) The Hardware Hacking Handbook 
 9) The Art of Network Penetration Testing How to Take Over Any Company 
 
-### <u> Extra_Special </u> 
+### <ins> Extra_Special </ins> 
 1) Fluent Python 
 
-### <u> Js_Books </u> 
+### <ins> Js_Books </ins> 
 1) Beginning Nodejs 
 2) Practical Node Js 
 
-### <u> Lang-Other </u> 
+### <ins> Lang-Other </ins> 
 1) C++ Primer 5th Edition 2013 
 2) Effective Typescript 
 3) Expert C++ 
@@ -52,12 +52,12 @@
 11) You Don't Know JS Async & Performance 
 12) You Don't Know JS ES6 & Beyond Kyle 
 
-### <u> Maths </u> 
+### <ins> Maths </ins> 
 1) Calculus   
 2) Precalculus   
 3) precalculus-mathematics-for-calculus-6th-edition-pdf 
 
-### <u> Mix-Uncategorized </u> 
+### <ins> Mix-Uncategorized </ins> 
 1) 2015 Book DataMining 
 2) 25 most popular Python scripts for network security 
 3) Attacks, Defenses and Testing for Deep Learning 
@@ -85,7 +85,7 @@
 25) Visualising Quantum Mechanics with Python 
 26) [O`Reilly] - Programming Python, 4th ed  - [Lutz]    
 
-### <u> Ml-Dl-Broad </u> 
+### <ins> Ml-Dl-Broad </ins> 
 1) 2019 Generative Deep Learning Teaching Machines to Paint, Write, Compose, and Play by David Foster 
 2) 6185 Machine Learning in Action 
 3) Advanced Deep Learning with TensorFlow 2 and Keras 
@@ -139,7 +139,7 @@
 51) The Hundred Page Machine Learning BOOK 
 52) torch-mech-algorthsm 
 
-### <u> Nlp </u> 
+### <ins> Nlp </ins> 
 1) 1  starter 
 2) 2  The Handbook of NLP with Gensim 
 3) 3  only half book [spacy] 
@@ -152,7 +152,7 @@
 10) Just read [NO Code ] 
 11) Nlp easy math Book 
 
-### <u> Non_Foundation-Theorybooks </u> 
+### <ins> Non_Foundation-Theorybooks </ins> 
 1) Nine Algorithms that Changed the Future The Ingenious Ideas that 
 2) Programming Languages 
 3) Quantum Computing 
@@ -160,12 +160,12 @@
 5) Statistical Prediction and Machine Learning 
 6) The Internet Book Everything You 
 
-### <u> Old_Gold </u> 
+### <ins> Old_Gold </ins> 
 1) 30 books 
 2) How to Talk to Anyone 92 Little Tricks for Big Success in Relationships by Leil Lowndes 
 3) Influence  The Psychology of Persuasion   
 
-### <u> Python_Books </u> 
+### <ins> Python_Books </ins> 
 1) core application programming 
 2) effective python 
 3) fluent python 
@@ -177,7 +177,7 @@
 9) The Python Standard Library by Example 
 10) [O`Reilly] - Programming Python, 4th ed  - [Lutz]    
 
-### <u> Ref </u> 
+### <ins> Ref </ins> 
 1) 50-useful-python-scripts-free-pdf (3) 
 2) Machine learning  ref 
 3) Numpy Reference 
@@ -186,13 +186,13 @@
 6) Tutorials on Machine learning & Deep-Learning 
 7) Very very good python ref for all fields 
 
-### <u> Reinforcement_Learning </u> 
+### <ins> Reinforcement_Learning </ins> 
 1) Book Reinforcement Learning - With Open AI, TensorFlow and Keras Using Python 174 Pages 2018 
 2) Deep Reinforcement Learning Hands-On 
 3) Deep Reinforcement Learning with Python (2024) 
 4) Reinforcement Learning An introduction (Second Edition) by Richard S  Sutton and Andrew G  Barto 
 
-### <u> Roadmaps </u> 
+### <ins> Roadmaps </ins> 
 1) 2024 Backend Roadmap - Light 
 2) 2024 Frontend Roadmap - Light 
 3) CampusX DLCV Course Syllabus 
@@ -204,13 +204,13 @@
 9) Learning-Path 
 10) Statistics For Data Science Resources 
 
-### <u> Stats </u> 
+### <ins> Stats </ins> 
 1) BEST BOOK OF STATS  MENIUM 
 2) Hypothesis Testing - ANOVA 
 3) Hypothesis Testing - Chi Square Distribution 
 4) Practical Statistics for Data Scientists 
 
-### <u> Theory_Books </u> 
+### <ins> Theory_Books </ins> 
 1) Deep learning book 
 2) Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville   
 3) dive into DL 
