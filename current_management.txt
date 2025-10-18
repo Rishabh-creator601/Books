@@ -118,14 +118,6 @@ DEVOPS / MLOPS TOPICS : Pydantic 🟢
 
 
 
-
-
-token : pypi-AgEIcHlwaS5vcmcCJGVhZDQ1YTgzLWJhZDEtNDBlMC1iNThiLWY2NjM1ZGE5OTliMAACEVsxLFsic2VlZHRvb2xzIl1dAAIsWzIsWyJkNjI5ZGIzNC01ZDc4LTQ1YmItYThhYS1iNjAyODkxY2M3MGIiXV0AAAYgLD1iGpOsWIf6zaV4h1RUqyLQODPgbPsLvZ1h08pm6bk
-
-
-
-
-
 🔹 Free / Low-Cost RAG Setup – Summary
 Use open-source LLMs (e.g., LLaMA 3, Mistral, Falcon) instead of paid APIs.
 Use free vector databases like FAISS or ChromaDB for retrieval.
