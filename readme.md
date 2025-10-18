@@ -1,221 +1,227 @@
-#### CV 
-- Deep Learning for Computer Vision - Image Classification, Object Detection and Face Recognition in Python by Jason Brownlee   
-- DeepLEarningForComputerVision_python  
-- Generative Deep Learning - Teaching Machines to Paint, -- David Foster, Applied Data Science --   
-- Keras Deep Learning Cookbook- Over 80 Recipes for -- Rajdeep Dua & Manpreet Singh Ghotra --   
-- Michael Avendi - PyTorch Computer Vision Cookbook_ Over 70 recipes to solve computer vision and image processing problems using PyTorch 1.x (2020, Packt Publishing) -  
-- OpenCV Computer Vision Projects with Python  
-- OpenCV with Python Blueprints  
-- Opencv Ref  
-- Using Stable Diffusion with Python  
-- _info.txt  
-- deep-learning-for-vision-systems  
-- mastering matploitlib  
-#### LANG-OTHER 
-- C++.Primer.5th.Edition_2013  
-- Effective Typescript  
-- Expert C++  
-- Gant_Laborde_Learning_Tensorflow_js_Powerful_Machine_Learning_in  
-- Intermediate C Programming  
-- Nixon_R_Learning_PHP,_MySQL_&_JavaScript_6th_Edition_2021  
-- Professional C++  
-- React Brochure  
-- Text Processing with JavaScript  
-- Unpacking Intermediate JavaScript  
-- You_Don't_Know_JS_Async_&_Performance  
-- You_Don't_Know_JS_ES6_&_Beyond_Kyle  
-#### ML-DL-BROAD 
-- 2019 Generative Deep Learning Teaching Machines to Paint, Write, Compose, and Play by David Foster  
-- 6185.Machine Learning in Action  
-- AI and ml for coders b1  
-- Advanced Deep Learning with TensorFlow 2 and Keras  
-- Ankur_A_Patel_Hands_On_Unsupervised_Learning_Using_Python_How_to  
-- Ankur_A_Patel_Hands_On_Unsupervised_Learning_Using_Python_How_to  
-- Applied DL PyTorch  
-- Auto Ml  
-- Building Machine Learning Systems with Python - Richert, Coelho  
-- Building Machine Learning Systems with Python - Second Edition  
-- Building Recommendation Systems in Python and JAX  
-- Data Preparation for Machine Learning Data Cleaning, Feature Selection, and Data Transforms in Python by Jason Brownlee   
-- Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python by Jason Brownlee   
-- Deep Learning with Applications Using Python_ Chatbots and Face, Object, and Speech Recognition with Tensorflow and Keras  
-- Deep Learning with Python part 2  
-- Deep Learning with Python  
-- Deep-Learning-with-PyTorch  
-- Deep.Learning.for.Coders.with.fastai.and.PyTorch  
-- Feature Engineering for Machine Learning_ Principles and Techniques for Data Scientists  
-- Fundamentals of Deep Learning  
-- Generative Adversarial Networks with Python Deep Learning Generative Models for Image Synthesis and Image Translation by Jason Brownlee   
-- Generative Deep Learning Teaching Machines to Paint, Write, Compose, and Play by David Foster  
-- Graph Neural network guide  
-- Hands On Machine Learning with Scikit Learn and TensorFlow  
-- Imbalanced Classification with Python Choose Better Metrics, Balance Skewed Classes, and Apply Cost-Sensitive Learning by Jason Brownlee   
-- Inside_Deep_Learning_Math,_Algorithms,_Models_Edward_Raff_Manning  
-- Introduction to Machine Learning with Python-min  
-- Introduction to Time Series Forecasting with Python How to Prepare Data and Develop Models to Predict the Future by Jason Brownlee   
-- Learning TensorFlow - a guide to building deep learning -- Hope, Tom;Lieder, Italy;Resheff, Yehezkel S --   
-- Machine Learning and Data Science_ An Introduction to Statistical Learning Methods with R  
-- Machine Learning for the Web  
-- Machine Learning for the Web_ Explore the web and make smarter predictions using Python  
-- Machine Learning some projects  
-- Machine Learning with TensorFlow  
-- Practical Recommender Systems - Kim Falk (Manning, 2019)  
-- PracticalStatisticsforDataScientists50EssentialConceptsUsingRandPythonbyPeterBruceAndrewBrucePeterGedeck  
-- Pro Machine Learning Algorithms  
-- Programming PyTorch for Deep Learning (2020)  
-- Python Reinforcement Learning Projects  
-- Recommednation system guide  
-- Rowel Atienza - Advanced Deep Learning with TensorFlow 2 and Keras_ Apply DL, GANs, VAEs, deep RL, unsupervised learning, object detection and segmentation, and more, 2nd Edition-Packt Publishing (202  
-- TensorFlow Developer Certificate Guide (2023)  
-- TensorFlow in Action  
-- The GAN Book  
-- The Hundred Page Machine Learning BOOK  
-- ai-machine-learning-coders-programmers  
-- building-machine-learning-projects-tensorflow  
-- debugging-nns  
-- gans_in_action  
-- machine learning and torch  
-- neural network from scratch  
-- programming-pytorch-for-deep-learning-creating-and-deploying-deep-learning-applications  
-- torch-mech-algorthsm  
-#### MIX-UNCATEGORIZED 
-- 2015_Book_DataMining  
-- 25 most popular Python scripts for network security  
-- Attacks, Defenses and Testing for Deep Learning  
-- Automate The Boring Stuff With Python  
-- Build a Backend REST API with Python   Django - Beginner  
-- Building Python Web APIs with FastAPI  
-- Building_Modern_GUIs_with_Tkinter_and_Python_Building_user_friendly  
-- ChatGPT Prompts Book (2024)  
-- Cybersecurity Architect s Handbook  
-- Hands on python web scraping  
-- Hypermodern Python Tooling  
-- Justin_Seitz_Black_Hat_Python_Python_Programming_for_Hackers_and  
-- Learning GraphQL by Eve Porcello, Alex Banks (2018)  
-- Learning_TypeScript_Enhance_Your_Web_Development_Skills_Using_Type  
-- Lewinson_E_Python_for_Finance_Cookbook_Second_Edition_2022  
-- Mark_Liu_Make_Python_Talk_Build_Apps_with_Voice_Control_and_Speech  
-- PYQT5  
-- Python GUI Automation for Beginners  
-- Python Guide for Web Scraping  
-- Python Testing with pytest by Brian Okken  
-- Python_Concurrency_with_asyncio_Matthew_Fowler  
-- TkinterWidgets  
-- Visual Analytics with Tableau�  
-- Visualising Quantum Mechanics with Python  
-- [O`Reilly] - Programming Python, 4th ed. - [Lutz]  
-- fastApi modern web dev  
-- make python talk speech recognition  
-- tkinter-gui-programming-example  
-#### NLP 
-- 2019 Natural Language Processing in Action by Hobson Lane,Cole Howard,Hannes Hapke  
-- Applied Natural Language Processing with Python_ Implementing Machine Learning and Deep Learning Algorithms for Natural Language Processing  
-- Applied Text Analysis with Python_ Enabling Language-Aware Data Products with Machine Learning  
-- Building Chatbots with Python_ Using Natural Language Processing and Machine Learning  
-- Building Chatbots with Python_ Using Natural Language Processing and Machine Learning  
-- Deep Learning for Natural Language Processing Develop Deep Learning Models for Natural Language in Python by Jason Brownlee   
-- LLM Cheatsheet  
-- LLMs in Production (2023)  
-- NLP some topics  
-- NLP with transfomers  
-- Natural Language Processing in Action_ Understanding, analyzing, and generating text with Python  
-- Natural Language Processing with Python and spaCy  
-- Natural Language Processing with Python and spaCy  
-- NlP Bert and transformers  
-- Nlp some topics 2  
-- The Handbook of NLP with Gensim  
-- [NLP] Natural Language Processing with PyTorch (2019)  
-- [THE] Neural Network Methods in Natural Language Processing (2017)  
-- deep-learning-nlp-speech-recognition  
-#### REINFORCEMENT_LEARNING 
-- Book Reinforcement Learning - With Open AI, TensorFlow and Keras Using Python 174 Pages 2018  
-- Deep Reinforcement Learning Hands-On  
-- Deep Reinforcement Learning with Python (2024)  
-- Reinforcement Learning An introduction (Second Edition) by Richard S. Sutton and Andrew G. Barto  
-#### THEORY_BOOKS 
-- Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville   
-- Deep learning book  
-- ESLR  
-- Foundations of Statistical Natural Language Processing - Christopher D. Manning  
-- ISLP  
-- ISLR  
-- dive into DL  
-#### CHEATSHEETS 
-- 5839079288580719482.jpg  
-- AI_resources.jpg  
-- Basics.jpg  
-- Hyper Paramters.png  
-- Machine Learning Cheatsheet  
-- ToolBox  
-- Types_of_vpn.jpg  
-- ai_roadmap 1.png  
-- cybersecurity_platforms.jpg  
-- roadmap_cs.jpg  
-- sources  
-- sources_web  
-- tools_map_cs.jpg  
-#### ETHICAL_HACKING_ 
-- Gray_hat_Python_Python_programming_for_hackers_and_reverse_PDFDrive  
-- Hacker's_Delight_Henry_S_Warren  
-- Hacking_APIs_Breaking_Web_Application_Programming_Interfaces_Corey  
-- Justin_Seitz_Black_Hat_Python_Python_Programming_for_Hackers_and  
-- Network_Programming_in_Python_The_Basic_A_Detailed_Guide_to_Python  
-- Python Ethical Hacking from scratch  
-- Python Network Programming  
-- Python for OSINT  
-- Python_Ethical_Hacking_from_Scratch_Think_like_an_ethical_hacker  
-- Python_for_Cybersecurity_Using_Python_for_Cyber_Offense_and_Defense  
-- The Hardware Hacking Handbook  
-- The_Art_of_Network_Penetration_Testing_How_to_Take_Over_Any_Company  
-- python cybersecurity for offence and defense  
-#### EXTRA_SPECIAL 
-- Fluent Python  
-#### JS_BOOKS 
-- Beginning Nodejs  
-- Practical Node.Js  
-#### MATHS 
-- Calculus  
-- Precalculus  
-- precalculus-mathematics-for-calculus-6th-edition-pdf  
-#### NON_FOUNDATION-THEORYBOOKS 
-- Nine_Algorithms_that_Changed_the_Future_The_Ingenious_Ideas_that  
-- Programming Languages  
-- Quantum Computing  
-- Quantum Machine Learning  
-- Statistical Prediction and Machine Learning  
-- The_Internet_Book_Everything_You  
-#### PYTHON_BOOKS 
-- Hypermodern Python Tooling  
-- LearningPython  
-- Python Essential Reference, Fourth Edition  
-- Python_Concurrency_with_asyncio_Matthew_Fowler  
-- The Python Standard Library by Example  
-- [O`Reilly] - Programming Python, 4th ed. - [Lutz]  
-- core application programming  
-- effective python  
-- fluent python  
-- python cookbook  
-#### REF 
-- 50-useful-python-scripts-free-pdf (3)  
-- Machine learning  ref  
-- Numpy Reference  
-- Opencv Ref  
-- Regression_only  
-- Tutorials on Machine learning & Deep-Learning  
-- Very very good python ref for all fields  
-#### ROADMAPS 
-- 2024 Backend Roadmap - Light  
-- 2024 Frontend Roadmap - Light  
-- CampusX DLCV Course Syllabus  
-- CampusX DSMP 2.0 Syllabus  
-- GenAI Pinnacle Program project  
-- Learning-Path  
-- Maths Roadmap for Machine Learning.xlsx  
-- Statistics For Data Science Resources  
-- deep learning roadmap.webp  
-- dsmp notes 1  
-- dsmp notes 2  
-- full stack edureka  
-#### STATS 
-- Practical Statistics for Data Scientists  
-- thinkstats2  
+
+# ✨ Comprehensive Study Resources ✨
+**A curated collection of books and references** for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.
+
+
+
+
+### CV
+1. Autoencoders and GANs
+2. **Deep Learning for Computer Vision** - Image Classification, Object Detection and Face Recognition in Python by Jason Brownlee    
+3. deep-learning-for-vision-systems
+4. DeepLEarningForComputerVision_python
+5. **Generative Deep Learning** - Teaching Machines to Paint, David Foster, Applied Data Science    
+6. **Keras Deep Learning Cookbook** - Over 80 Recipes, Rajdeep Dua & Manpreet Singh Ghotra    .epub
+7. Mastering Matplotlib
+8. Michael Avendi - **PyTorch Computer Vision Cookbook** 
+9. OpenCV Computer Vision Projects with Python     
+10. Opencv Ref
+11. OpenCV with Python Blueprints
+12. Using Stable Diffusion with Python
+
+### Lang-other
+1. C++ Primer 5th Edition (2013)
+2. Effective Typescript
+3. Expert C++
+4. Gant Laborde - Learning Tensorflow.js: Powerful Machine Learning
+5. Intermediate C Programming
+6. Nixon R - Learning PHP, MySQL & JavaScript, 6th Edition (2021)
+7. Professional C++
+8. React Brochure
+9. Text Processing with JavaScript
+10. Unpacking Intermediate JavaScript
+11. You Don't Know JS: Async & Performance
+12. You Don't Know JS: ES6 & Beyond - Kyle Simpson
+
+### ML-DL-BROAD
+1. 2019 Generative Deep Learning - Teaching Machines to Paint, Write, Compose, and Play by David Foster
+2. Machine Learning in Action
+3. Advanced Deep Learning with TensorFlow 2 and Keras
+4. AI and ML for Coders B1
+5. AI-Machine-Learning-Coders-Programmers
+6. Ankur A Patel - Hands-On Unsupervised Learning Using Python
+7. Applied DL PyTorch
+8. Auto ML
+9. Building Machine Learning Systems with Python - Richert, Coelho
+10. Building Machine Learning Systems with Python - 2nd Edition
+11. Building Recommendation Systems in Python and JAX
+12. Building ML Projects TensorFlow
+13. Data Preparation for Machine Learning - Jason Brownlee    
+14. Debugging NNs
+15. Deep Learning for Time Series Forecasting - Jason Brownlee    
+16. Deep Learning with Applications Using Python -     
+17. Deep Learning with Python, Part 2
+18. Deep Learning with Python
+19. Deep Learning with PyTorch
+20. Deep Learning for Coders with fastai and PyTorch
+21. Elements of Statistical Learning
+22. Feature Engineering for Machine Learning
+23. Fundamentals of Deep Learning
+24. GANs in Action
+25. Generative Adversarial Networks with Python - Jason Brownlee    
+26. Graph Neural Network Guide
+27. Hands-On ML with Scikit-Learn and TensorFlow
+28. Imbalanced Classification with Python - Jason Brownlee    
+29. Inside Deep Learning: Math, Algorithms, Models - Edward Raff
+30. Intro to ML with Python -     
+31. Intro to Time Series Forecasting with Python - Jason Brownlee    
+32. Learning TensorFlow - Hope, Lieder, Resheff    
+33. ML and Data Science: Intro to Statistical Learning with R
+34. Machine Learning and Torch
+35. Machine Learning for the Web
+36. Machine Learning for the Web: Explore the web and make smarter predictions
+37. ML Some Projects
+38. ML with TensorFlow
+39. Neural Networks from Scratch
+40. Practical Recommender Systems - Kim Falk
+41. Practical Statistics for Data Scientists - Peter Bruce
+42. Pro Machine Learning Algorithms
+43. Programming PyTorch for Deep Learning
+44. Python Reinforcement Learning Projects
+45. Recommendation System Guide
+46. Rowel Atienza - Advanced Deep Learning with TensorFlow 2 and Keras
+47. TensorFlow Developer Certificate Guide (2023)
+48. TensorFlow in Action
+49. The GAN Book
+50. The Hundred Page Machine Learning Book
+51. Torch Mechanisms & Algorithms
+
+### Mix-Uncategorized
+1. 2015 Book: Data Mining
+2. 25 Most Popular Python Scripts for Network Security
+3. Attacks, Defenses and Testing for Deep Learning
+4. Automate the Boring Stuff with Python
+5. Build a Backend REST API with Python Django - Beginner
+6. Building Python Web APIs with FastAPI
+7. Building Modern GUIs with Tkinter and Python
+8. ChatGPT Prompts Book (2024)
+9. Cybersecurity Architect’s Handbook
+10. FastAPI Modern Web Dev
+11. Hands-On Python Web Scraping
+12. Hypermodern Python Tooling
+13. Justin Seitz - Black Hat Python
+14. Learning GraphQL - Eve Porcello & Alex Banks (2018)
+15. Learning TypeScript
+16. Lewinson E - Python for Finance Cookbook, 2nd Ed (2022)
+17. Make Python Talk - Speech Recognition
+18. Mark Liu - Make Python Talk
+19. PyQt5
+20. Python GUI Automation for Beginners
+21. Python Guide for Web Scraping
+22. Python Testing with pytest - Brian Okken
+23. Python Concurrency with asyncio - Matthew Fowler
+24. Tkinter GUI Programming Examples
+25. Tkinter Widgets
+26. Visual Analytics with Tableau
+27. Visualising Quantum Mechanics with Python
+28. Programming Python, 4th Ed - Lutz
+
+### NLP
+1. Starter
+2. Handbook of NLP with Gensim
+3. Only Half Book [spaCy]
+4. NLP: BERT and Transformers
+5. Python Transformers Hands-On - Joshua K. Cage    
+6. NLP in Action -     
+7. NLP with PyTorch (2019)
+8. Chatbot Project [Extra]
+9. Intermediate NLP
+10. Just Read [No Code]
+11. NLP Easy Math Book
+
+### Reinforcement_Learning
+1. Book: Reinforcement Learning with OpenAI, TensorFlow, and Keras (2018)
+2. Deep Reinforcement Learning Hands-On
+3. Deep Reinforcement Learning with Python (2024)
+4. Reinforcement Learning: An Introduction, 2nd Edition - Sutton & Barto
+
+### Theory_Books
+1. Deep Learning Book
+2. Deep Learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville    
+3. Dive into DL
+4. ESLR
+5. Foundations of Statistical NLP - Christopher D. Manning
+6. ISLP
+7. ISLR
+
+### cheatsheets
+1. Machine Learning Cheatsheet
+
+### ethical_hacking
+1. Gray Hat Python -     
+2. Hacker's Delight - Henry S. Warren
+3. Hacking APIs - Corey
+4. Justin Seitz - Black Hat Python
+5. Network Programming in Python: The Basics
+6. Python Cybersecurity: Offense & Defense
+7. Python Ethical Hacking from Scratch
+8. Python for OSINT
+9. Python Network Programming
+10. Python Ethical Hacking from Scratch (Think like an Ethical Hacker)
+11. Python for Cybersecurity: Using Python for Offense and Defense
+12. The Hardware Hacking Handbook
+13. The Art of Network Penetration Testing
+
+### extra_special
+1. Fluent Python
+
+### js_books
+1. Beginning Node.js
+2. Practical Node.js
+
+### maths
+1. Calculus 
+2. Precalculus 
+3. Precalculus: Mathematics for Calculus, 6th Edition
+
+### non_foundation-theoryBooks
+1. Nine Algorithms That Changed the Future
+2. Programming Languages
+3. Quantum Computing
+4. Quantum Machine Learning
+5. Statistical Prediction and Machine Learning
+6. The Internet Book
+
+### old_gold
+1. 30 Books
+2. How to Talk to Anyone - Leil Lowndes
+3. Influence: The Psychology of Persuasion 
+
+### python_books
+1. Core Application Programming
+2. Effective Python
+3. Fluent Python
+4. Hypermodern Python Tooling
+5. Learning Python
+6. Python Cookbook
+7. Python Essential Reference
+8. Python Concurrency with asyncio
+9. Python Standard Library by Example
+10. Programming Python, 4th Ed - Lutz 
+
+### ref
+1. 50 Useful Python Scripts
+2. Machine Learning Reference
+3. Numpy Reference
+4. Opencv Ref
+5. Regression Only
+6. Tutorials on Machine Learning & Deep Learning
+7. Very Very Good Python Reference for All Fields
+
+### roadmaps
+1. 2024 Backend Roadmap - Light
+2. 2024 Frontend Roadmap - Light
+3. CampusX DLCV Course Syllabus
+4. CampusX DSMP 2.0 Syllabus
+5. DSMP Notes 1
+6. DSMP Notes 2
+7. Full Stack Edureka
+8. GenAI Pinnacle Program Project
+9. Learning Path
+10. Statistics for Data Science Resources
+
+### stats
+1. Best Book of Stats - Medium
+2. Hypothesis Testing: ANOVA
+3. Hypothesis Testing: Chi-Square Distribution
+4. Practical Statistics for Data Scientists
