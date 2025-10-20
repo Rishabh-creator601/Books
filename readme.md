@@ -18,7 +18,7 @@
 
 ***
 
-### <ins> Cv </ins> 
+### <ins> Computer Vision (CV)</ins> 
 1) autoencoders and GANS 
 2) *Deep Learning for Computer Vision - Image Classification, Object Detection and Face Recognition in Python* by Jason Brownlee   
 3) deep-learning-for-vision-systems 
@@ -171,7 +171,7 @@
 ***
 
 
-### <ins> Nlp </ins> 
+### <ins> Natural Language Processing (NLP) </ins> 
 1) 1  starter  🌟
 2) 2  The Handbook of NLP with Gensim 🌟
 3) 3  only half book [spacy] 
