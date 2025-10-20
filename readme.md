@@ -48,18 +48,24 @@
 2) Practical Node Js 
 
 ### <ins> Lang-Other </ins> 
-1) C++ Primer 5th Edition 2013 
-2) Effective Typescript 
-3) Expert C++ 
-4) Gant Laborde Learning Tensorflow js Powerful Machine Learning in 
-5) Intermediate C Programming 
-6) Nixon R Learning PHP, MySQL & JavaScript 6th Edition 2021 
-7) Professional C++ 
-8) React Brochure 
-9) Text Processing with JavaScript 
-10) Unpacking Intermediate JavaScript 
-11) You Don't Know JS Async & Performance 
-12) You Don't Know JS ES6 & Beyond Kyle 
+
+#### *C / C++ Books*
+
+1) Intermediate C Programming
+2) C++ Primer (5th Edition, 2013)
+3) Professional C++
+4) Expert C++
+
+#### *JavaScript / TypeScript / Web / ML Books*
+
+1) Learning PHP, MySQL & JavaScript (Nixon, 6th Edition, 2021)
+2) React Brochure
+3) Unpacking Intermediate JavaScript
+4) Text Processing with JavaScript
+5) You Don’t Know JS: Async & Performance
+6) You Don’t Know JS: ES6 & Beyond (Kyle Simpson)
+7) Effective TypeScript
+8) Learning TensorFlow.js (Gant Laborde)
 
 ### <ins> Maths </ins> 
 1) Calculus   
