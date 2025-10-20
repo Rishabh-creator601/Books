@@ -2,6 +2,15 @@
 # ✨ Comprehensive Study Resources ✨
 **A curated collection of books and references** for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.
 
+
+
+## Symbol Table
+
+| Symbol | Meaning                                         |
+| :----: | :---------------------------------------------- |
+|   🌟   | **Highly recommended / Must-read**              |
+
+
  
 
 ### <ins> Cheatsheets </ins> 
@@ -9,19 +18,19 @@
 
 ### <ins> Cv </ins> 
 1) autoencoders and GANS 
-2) Deep Learning for Computer Vision - Image Classification, Object Detection and Face Recognition in Python by Jason Brownlee   
+2) *Deep Learning for Computer Vision - Image Classification, Object Detection and Face Recognition in Python* by Jason Brownlee   
 3) deep-learning-for-vision-systems 
 4) DeepLEarningForComputerVision python 
 5) Generative Deep Learning - Teaching Machines to Paint,   David Foster, Applied Data Science   
 6) mastering matploitlib 
-7) Michael Avendi - PyTorch Computer Vision Cookbook  Over 70 recipes to solve computer vision and image processing problems using PyTorch 1 x (2020, Packt Publishing)   
+7) Michael Avendi - PyTorch Computer Vision Cookbook  Over 70 recipes to solve computer vision and image processing problems using PyTorch
 8) OpenCV Computer Vision Projects with Python   
 9) Opencv Ref 
 10) OpenCV with Python Blueprints 
 11) Using Stable Diffusion with Python 
 
 ### <ins> Ethical_Hacking_ </ins> 
-1) Gray hat Python Python programming for hackers and reverse PDFDrive 
+1) Gray hat Python Python programming for hackers and reverse 
 2) Hacking APIs Breaking Web Application Programming Interfaces Corey 
 3) Justin Seitz Black Hat Python Python Programming for Hackers and 
 4) Network Programming in Python The Basic A Detailed Guide to Python 
@@ -32,7 +41,7 @@
 9) The Art of Network Penetration Testing How to Take Over Any Company 
 
 ### <ins> Extra_Special </ins> 
-1) Fluent Python 
+1) Fluent Python 🌟
 
 ### <ins> Js_Books </ins> 
 1) Beginning Nodejs 
@@ -90,8 +99,8 @@
 2) 6185 Machine Learning in Action 
 3) Advanced Deep Learning with TensorFlow 2 and Keras 
 4) AI and ml for coders b1 
-5) ai-machine-learning-coders-programmers 
-6) Ankur A Patel Hands On Unsupervised Learning Using Python How to 
+5) ai-machine-learning-coders-programmers 🌟
+6) Ankur A Patel Hands On Unsupervised Learning Using Python How to 🌟
 7) Applied DL PyTorch 
 8) Auto Ml 
 9) Building Machine Learning Systems with Python - Richert, Coelho 
@@ -102,8 +111,8 @@
 14) debugging-nns 
 15) Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python by Jason Brownlee   
 16) Deep Learning with Applications Using Python  Chatbots and Face, Object, and Speech Recognition with Tensorflow and Keras   
-17) Deep Learning with Python part 2 
-18) Deep Learning with Python 
+17) Deep Learning with Python part 2  🌟
+18) Deep Learning with Python  🌟
 19) Deep-Learning-with-PyTorch 
 20) Deep Learning for Coders with fastai and PyTorch 
 21) Elements of statistical Learning 
@@ -125,7 +134,7 @@
 37) Machine Learning for the Web  Explore the web and make smarter predictions using Python 
 38) Machine Learning some projects 
 39) Machine Learning with TensorFlow 
-40) neural network from scratch 
+40) neural network from scratch 🌟 [sentdex book]
 41) Practical Recommender Systems - Kim Falk (Manning, 2019) 
 42) PracticalStatisticsforDataScientists50EssentialConceptsUsingRandPythonbyPeterBruceAndrewBrucePeterGedeck 
 43) Pro Machine Learning Algorithms 
@@ -136,15 +145,15 @@
 48) TensorFlow Developer Certificate Guide (2023) 
 49) TensorFlow in Action 
 50) The GAN Book 
-51) The Hundred Page Machine Learning BOOK 
-52) torch-mech-algorthsm 
+51) The Hundred Page Machine Learning BOOK 🌟
+52) torch-mech-algorthsm  🌟
 
 ### <ins> Nlp </ins> 
-1) 1  starter 
-2) 2  The Handbook of NLP with Gensim 
+1) 1  starter  🌟
+2) 2  The Handbook of NLP with Gensim 🌟
 3) 3  only half book [spacy] 
-4) 4  NlP Bert and transformers 
-5) 5  Python Transformers By Huggingface Hands On- 101 practical   Joshua K  Cage   
+4) 4  NlP Bert and transformers 🌟
+5) 5  Python Transformers By Huggingface Hands On- 101 practical   Joshua K  Cage   🌟
 6) 6  Natural Language Processing in Action  Understanding, analyzing, and generating text with Python   
 7) 7   [NLP] Natural Language Processing with PyTorch (2019) 
 8) chatbot project [extra] 
@@ -168,7 +177,7 @@
 ### <ins> Python_Books </ins> 
 1) core application programming 
 2) effective python 
-3) fluent python 
+3) fluent python 🌟
 4) Hypermodern Python Tooling 
 5) LearningPython 
 6) python cookbook 
@@ -181,10 +190,10 @@
 1) 50-useful-python-scripts-free-pdf (3) 
 2) Machine learning  ref 
 3) Numpy Reference 
-4) Opencv Ref 
+4) Opencv Ref 🌟
 5) Regression only 
 6) Tutorials on Machine learning & Deep-Learning 
-7) Very very good python ref for all fields 
+7) Very very good python ref for all fields 🌟
 
 ### <ins> Reinforcement_Learning </ins> 
 1) Book Reinforcement Learning - With Open AI, TensorFlow and Keras Using Python 174 Pages 2018 
@@ -192,7 +201,7 @@
 3) Deep Reinforcement Learning with Python (2024) 
 4) Reinforcement Learning An introduction (Second Edition) by Richard S  Sutton and Andrew G  Barto 
 
-### <ins> Roadmaps </ins> 
+### <ins> Roadmaps </ins> 🌟
 1) 2024 Backend Roadmap - Light 
 2) 2024 Frontend Roadmap - Light 
 3) CampusX DLCV Course Syllabus 
@@ -205,15 +214,15 @@
 10) Statistics For Data Science Resources 
 
 ### <ins> Stats </ins> 
-1) BEST BOOK OF STATS  MENIUM 
+1) BEST BOOK OF STATS  MENIUM 🌟
 2) Hypothesis Testing - ANOVA 
 3) Hypothesis Testing - Chi Square Distribution 
-4) Practical Statistics for Data Scientists 
+4) Practical Statistics for Data Scientists 🌟
 
 ### <ins> Theory_Books </ins> 
 1) Deep learning book 
 2) Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville   
-3) dive into DL 
+3) dive into DL 🌟
 4) ESLR 
 5) Foundations of Statistical Natural Language Processing - Christopher D  Manning 
 6) ISLP 
