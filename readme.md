@@ -22,7 +22,7 @@
 
 ### <ins> Computer Vision (CV)</ins> 
 1) autoencoders and GANS 
-2) *Deep Learning for Computer Vision - Image Classification, Object Detection and Face Recognition in Python* by Jason Brownlee   
+2) [*Deep Learning for Computer Vision - Image Classification, Object Detection and Face Recognition in Python* by Jason Brownlee](https://github.com/Rishabh-creator601/Books/blob/master/CV/Deep%20Learning%20for%20Computer%20Vision%20-%20Image%20Classification,%20Object%20Detection%20and%20Face%20Recognition%20in%20Python%20by%20Jason%20Brownlee%20(z-lib.org).pdf)
 3) deep-learning-for-vision-systems 
 4) DeepLEarningForComputerVision python 
 5) Generative Deep Learning - Teaching Machines to Paint,   David Foster, Applied Data Science   
