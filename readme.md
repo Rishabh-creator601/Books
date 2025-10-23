@@ -16,22 +16,23 @@
  
 
 ### <ins> Cheatsheets </ins> 
-1) Machine Learning Cheatsheet
+1) [Machine Learning Cheatsheet](https://github.com/Rishabh-creator601/Books/blob/master/cheatsheets/Machine%20Learning%20Cheatsheet)
 
 ***
 
 ### <ins> Computer Vision (CV)</ins> 
-1) autoencoders and GANS 
-2) [*Deep Learning for Computer Vision - Image Classification, Object Detection and Face Recognition in Python* by Jason Brownlee](https://github.com/Rishabh-creator601/Books/blob/master/CV/Deep%20Learning%20for%20Computer%20Vision%20-%20Image%20Classification,%20Object%20Detection%20and%20Face%20Recognition%20in%20Python%20by%20Jason%20Brownlee%20(z-lib.org).pdf)
-3) deep-learning-for-vision-systems 
-4) DeepLEarningForComputerVision python 
-5) Generative Deep Learning - Teaching Machines to Paint,   David Foster, Applied Data Science   
-6) mastering matploitlib 
-7) Michael Avendi - PyTorch Computer Vision Cookbook  Over 70 recipes to solve computer vision and image processing problems using PyTorch
-8) OpenCV Computer Vision Projects with Python   
-9) Opencv Ref 
-10) OpenCV with Python Blueprints 
-11) Using Stable Diffusion with Python 
+1) [autoencoders and GANS](https://github.com/Rishabh-creator601/Books/blob/master/CV/autoencoders%20and%20GANS.pdf)
+2) *Deep Learning for Computer Vision - Image Classification, Object Detection and Face Recognition in Python* by Jason Brownlee   
+3) [deep-learning-for-vision-systems](https://github.com/Rishabh-creator601/Books/blob/master/CV/deep-learning-for-vision-systems[H].pdf)
+4) [DeepLEarningForComputerVision python](https://github.com/Rishabh-creator601/Books/blob/master/CV/DeepLEarningForComputerVision_python.pdf)
+5) [Generative Deep Learning - Teaching Machines to Paint,   David Foster, Applied Data Science](https://github.com/Rishabh-creator601/Books/blob/master/CV/Generative%20Deep%20Learning%20-%20Teaching%20Machines%20to%20Paint,%20--%20David%20Foster,%20Applied%20Data%20Science%20--%20(%20WeLib.org%20).pdf)
+6) [mastering matploitlib](https://github.com/Rishabh-creator601/Books/blob/master/CV/mastering%20matploitlib.pdf)
+7) [Michael Avendi - PyTorch Computer Vision Cookbook  Over 70 recipes to solve computer vision and image processing problems using PyTorch](https://github.com/Rishabh-creator601/Books/blob/master/CV/Michael%20Avendi%20-%20PyTorch%20Computer%20Vision%20Cookbook_%20Over%2070%20recipes%20to%20solve%20computer%20vision%20and%20image%20processing%20problems%20using%20PyTorch%201.x%20(2020,%20Packt%20Publishing)%20-%20libgen.lc.pdf)
+8) [OpenCV Computer Vision Projects with Python](https://github.com/Rishabh-creator601/Books/blob/master/CV/OpenCV%20Computer%20Vision%20Projects%20with%20Python%20(%20PDFDrive.com%20).pdf)
+9) [Opencv Ref](https://github.com/Rishabh-creator601/Books/blob/master/ref/Opencv%20Ref.pdf)
+10) [OpenCV with Python Blueprints](https://github.com/Rishabh-creator601/Books/blob/master/CV/OpenCV%20with%20Python%20Blueprints.pdf)
+11) [Using Stable Diffusion with Python](https://github.com/Rishabh-creator601/Books/blob/master/CV/Using%20Stable%20Diffusion%20with%20Python.pdf)
+
 
 ***
 
