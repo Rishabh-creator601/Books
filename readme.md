@@ -2,6 +2,8 @@
 # ✨ Comprehensive Study Resources ✨
 **A curated collection of books and references** for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.
 
+![alt text](./__assets/book_banner.png)
+
 
 
 ## Symbol Table

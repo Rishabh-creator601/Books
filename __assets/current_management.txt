@@ -1,0 +1,157 @@
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||\
+
+FLOW OF CODING :
+
+NLP : 
+TOOLS - SPACY, GENSIM 
+LSA  LDA, TOPIC MODELLING [+ maths ]
+STANDARD PROJECTS :  [GENERTAING TEXT , IMAGE CAPTION ETC]
+TRANSFORMERS [+MATH]
+All this in pytorch till standard projects 
+
+
+CV :
+PYTORCH 
+GANS AUTOENCODERS
+Vision transformers, stable diffusion 
+Transfer learning models 
+
+
+
+MLOPS [+INTEGRATING WITH FRONTEND]
+LLMS 
+RL 
+Timer Series 
+Recommendation systems [user based , item based etc]
+
+web 
+cybersecurity 
+
+
+May leave full [⚠️⚠️⚠️ RESEARCH AHEAD]
+
+1) Pytorch research papers [advanced][this will take a lot of time for NLP and CV so leave it and move to other fields ,we will continue this but not now or may be not continue this  ] 
+2) [READ ML-DL-BROAD Books ]
+3) Graph Neural Networks 
+4) self supervised Learnings 
+
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||\
+
+
+ **AUTO ENCODERS PLAYLIST / TRSUTED SRC NOT FOUND YET if found save it in yt not in grayjay and mention in plan accoridingly
+ **LLMS  PLAYLIST / TRSUTED SRC NOT FOUND YET if found save it in yt not in grayjay and mention in plan accoridingly
+
+
+### Image Path :  C:/Users/RISHABH/Pictures/images/<image>
+### Data Path :  C:/codes/machineL/data
+
+### Installing tf 1.x :  pip3 install https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.14.0-py3-none-any.whl
+### Installing tf 1.15 : pip install https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.15.0-py3-none-any.whl
+### Installing tf 1.18 :  pip install https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.18.0-py3-none-any.whl
+### Tensorflow wheel files : https://github.com/fo40225/tensorflow-windows-wheel/blob/master/1.6.0/py36/CPU/sse2/tensorflow-1.6.0-cp36-cp36m-win_amd64.whl
+
+SYMBOLS :  🔴  ✔  🟢   🟡 ❌
+
+
+* OpenCV Manipualtion Techniques 🟢
+* RegExp 
+* Subplots 
+
+
+COMPUTER VISION TOPICS : OCR TESSERACT : NLP  +  COMPUTER VISION  🟡
+                       :  overfitting and underfitting 🟢
+                       : Learning rates , schedulers , decays 🟢
+                       : Checking different optimziers like sgd , adam , rmsprop  🟢
+                       : Model CheckPoints  🟢
+                       : Batch Normalization 🟢
+                       : Tranfer Learning : [LeNet , VGGNet ] 🟢
+                       : Saving and Loading Models  || Model Visualization 🟢
+                       : data annotation and labelling  🟢
+                       : FACE RECOGNITION : DeepFace , FaceNET on custom datasets  , MTCNN  🟢
+                       : GANS  => code with aarohi english channe; 🔴
+                       : diffusion models (after dl/ml/gans/trans/) 🔴
+                       : AutoEncoders 🔴
+                       : Transformers  (campusx after 67  +  code with aarohi vision transformer playlist ) 🔴
+                       : Vision Transformers 🔴
+                       : INSTANCE SEGMENTATION :  MASK WALA R-CNN (SKIP) , only => YolAct does not have much tutorials available but you can try  ✔
+                       : MEDIAPIPE , YOLO  🟢
+
+
+5)  Model Building on different dataset 🟢
+
+0) :  webrtc with live smile detection complete  🟢
+
+ 
+
+For Embedding : https://www.youtube.com/watch?v=JgnbwKnHMZQ&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=57&t=163s
+NLP TOPICS : tokenization , padding  🟢   => (padding , multihot-encode )
+           : Next Word prediction  🟢
+           : RegExp and cleaning texts  🟢
+           :  Embeddings  🟢
+           : Loading models from tensorflow-hub ❌
+           :  RNNS/LSTMS   🟢
+           : preatrained LSTMS embeddings like GLOVE  🟢
+           : IMDB classification || reuters  :  🟢 
+           : Topic Modelling
+           : Visualizing the Embeddings  🟢
+           : Conv1D 🟢
+
+
+
+DEVOPS / MLOPS TOPICS : Pydantic 🟢
+                      : Fast API 🟢
+                      : docker 
+                      :  redis 
+                      : mlflow ::  exp tracking  || weights&biases for deep learning models 
+                      : Pytest 
+                      : SQL Alchemy
+                      : prometheus  + grafana [model monitoring ]
+                      :  Render deployemnt 
+                      : Github Actions [CI / CD pipeline ]
+                      : AWS EC2 deployment [+ASG ||  kubernetes] || google cloud || azure 
+                      : Automation using DVC pipeline  || airflow || kuberflow 
+                      : rolling update [deployement statergies ]
+                      : sagemaker 
+                      : kafka 
+
+
+
+🔹 Free / Low-Cost RAG Setup – Summary
+Use open-source LLMs (e.g., LLaMA 3, Mistral, Falcon) instead of paid APIs.
+Use free vector databases like FAISS or ChromaDB for retrieval.
+
+🔹 Key Points about LLMs
+Examples: GPT‑4, Claude, LLaMA 3, Mistral, Falcon, Gemini
+Main Capabilities:
+Text generation (chat, articles, code)
+Summarization, rewriting
+Q&A and reasoning
+Translation
+Training: Trained on billions of words from books, sites, etc
+Architecture: Based on Transformer models (like GPT, BERT, T5).
+Free/Open-Source Models: Meta LLaMA 3, Mistral, Falcon, RedPajama.
+
+
+
+
+### WEB DEVELOPMENT : 
+
+    1) Ui Brain Technologies :  Typescript, ajax , Mean stack 
+    2) WebDevSimplified :  NextJs Projects 
+    3) NetNinja :  many tech surface level
+    4) GreatStack : Full stack ,JS, React Projects 
+    5) JavaScript Mastery :  Next, React , Full stack projects but I don’t like it 
+    6) Codesistency :  Next, React Projects 
+    7) Code Step By step:  Vibe of a prof 
+    8) Thapa Technical : he hi badiya kya bolna 
+    9)  LearnCode.academy -  for javascript bahut badiya 
+    10)  Dave Gray -  good playlist of Next js 
+
+
+NLP ROADMAP 
+
+
+https://www.geeksforgeeks.org/nlp/natural-language-processing-nlp-tutorial/
+
