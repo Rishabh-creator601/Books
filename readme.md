@@ -21,10 +21,10 @@
 ***
 
 ### <ins> Computer Vision (CV)</ins> 
-1) [autoencoders and GANS](https://github.com/Rishabh-creator601/Books/blob/master/CV/autoencoders%20and%20GANS.pdf)
+1) [Autoencoders and GANS](https://github.com/Rishabh-creator601/Books/blob/master/CV/autoencoders%20and%20GANS.pdf)
 2) [Deep Learning for Computer Vision - Image Classification, Object Detection and Face Recognition in Python* by Jason Brownlee](https://github.com/Rishabh-creator601/Books/blob/master/CV/Deep%20Learning%20for%20Computer%20Vision%20-%20Image%20Classification,%20Object%20Detection%20and%20Face%20Recognition%20in%20Python%20by%20Jason%20Brownlee%20(z-lib.org).pdf)
-3) [deep-learning-for-vision-systems](https://github.com/Rishabh-creator601/Books/blob/master/CV/deep-learning-for-vision-systems[H].pdf)
-4) [DeepLEarningForComputerVision python](https://github.com/Rishabh-creator601/Books/blob/master/CV/DeepLEarningForComputerVision_python.pdf)
+3) [deep learning for vision systems](https://github.com/Rishabh-creator601/Books/blob/master/CV/deep-learning-for-vision-systems[H].pdf)
+4) [Deep Learning For Computer Vision python](https://github.com/Rishabh-creator601/Books/blob/master/CV/DeepLEarningForComputerVision_python.pdf)
 5) [Generative Deep Learning - Teaching Machines to Paint,   David Foster, Applied Data Science](https://github.com/Rishabh-creator601/Books/blob/master/CV/Generative%20Deep%20Learning%20-%20Teaching%20Machines%20to%20Paint,%20--%20David%20Foster,%20Applied%20Data%20Science%20--%20(%20WeLib.org%20).pdf)
 6) [mastering matploitlib](https://github.com/Rishabh-creator601/Books/blob/master/CV/mastering%20matploitlib.pdf)
 7) [Michael Avendi - PyTorch Computer Vision Cookbook  Over 70 recipes to solve computer vision and image processing problems using PyTorch](https://github.com/Rishabh-creator601/Books/blob/master/CV/Michael%20Avendi%20-%20PyTorch%20Computer%20Vision%20Cookbook_%20Over%2070%20recipes%20to%20solve%20computer%20vision%20and%20image%20processing%20problems%20using%20PyTorch%201.x%20(2020,%20Packt%20Publishing)%20-%20libgen.lc.pdf)
@@ -50,7 +50,7 @@
 ***
 
 ### <ins> Extra_Special </ins> 
-1) Fluent Python 🌟
+1) [Fluent Python 🌟](https://github.com/Rishabh-creator601/Books/blob/master/extra_special/Fluent%20Python[H].pdf)
 
 ***
 
@@ -66,20 +66,21 @@
 
 
 1) [Intermediate C Programming](https://github.com/Rishabh-creator601/Books/blob/master/Lang-other/Intermediate%20C%20Programming.pdf)
-2) C++ Primer (5th Edition, 2013)
+2) [C++ Primer (5th Edition, 2013)](https://github.com/Rishabh-creator601/Books/blob/master/Lang-other/C%2B%2B.Primer.5th.Edition_2013.pdf)
 3) [Professional C++](https://github.com/Rishabh-creator601/Books/blob/master/Lang-other/Professional%20C%2B%2B.pdf)
 4) [Expert C++](https://github.com/Rishabh-creator601/Books/blob/master/Lang-other/Expert%20C%2B%2B.pdf)
 
 #### *JavaScript / TypeScript / Web / ML Books*
 
-1) Learning PHP, MySQL & JavaScript (Nixon, 6th Edition, 2021)
+1) [Learning PHP, MySQL & JavaScript (Nixon, 6th Edition, 2021)](https://github.com/Rishabh-creator601/Books/blob/master/Lang-other/Nixon_R_Learning_PHP,_MySQL_&_JavaScript_6th_Edition_2021.pdf)
 2) [React Brochure](https://github.com/Rishabh-creator601/Books/blob/master/Lang-other/React%20Brochure.pdf)
 3) [Unpacking Intermediate JavaScript](https://github.com/Rishabh-creator601/Books/blob/master/Lang-other/Unpacking%20Intermediate%20JavaScript.pdf)
 4) [Text Processing with JavaScript](https://github.com/Rishabh-creator601/Books/blob/master/Lang-other/Text%20Processing%20with%20JavaScript.pdf)
-5) You Don’t Know JS: Async & Performance
-6) You Don’t Know JS: ES6 & Beyond (Kyle Simpson)
+5) [You Don’t Know JS: Async & Performance](https://github.com/Rishabh-creator601/Books/blob/master/Lang-other/You%20Don't%20Know%20JS%20Async%20&%20Performance.pdf)
+6) [You Don’t Know JS: ES6 & Beyond (Kyle Simpson)](https://github.com/Rishabh-creator601/Books/blob/master/Lang-other/You%20Don't%20Know%20JS%20ES6%20&%20Beyond.pdf)
 7) [Effective TypeScript](https://github.com/Rishabh-creator601/Books/blob/master/Lang-other/Effective%20Typescript.pdf)
-8) Learning TensorFlow.js (Gant Laborde)
+8) [Learning TensorFlow.js (Gant Laborde)](https://github.com/Rishabh-creator601/Books/blob/master/Lang-other/Learning%20TensorFlow.js.pdf)
+
 
 
 
