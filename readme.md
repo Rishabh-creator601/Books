@@ -161,7 +161,10 @@
 39. [Programming PyTorch for Deep Learning (2020)](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Programming%20PyTorch%20for%20Deep%20Learning%20(2020).pdf)
 40. [Programming PyTorch for Deep Learning: Creating and Deploying Deep Learning Applications](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/programming-pytorch-for-deep-learning-creating-and-deploying-deep-learning-applications.pdf)
 41. [Recommendation System Guide 🌟](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Recommednation%20system%20guide[H].pdf)
-42. [Rowel Atienza - Advanced Deep Learning with TensorFlow 2 and Keras, 2nd Edition](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Rowel%20Atienza%20-%20Advanced%20Deep%20Learning%20with%20TensorFlow%202%20and%20Keras_%20Apply%20DL,%20GANs,%20VAEs,%20deep%20RL,%20unsupervised%20learning,%20object%20detection%20and%20segmentation,%20and%20more,%202nd%20Edition-Packt%20Publishing%20(202.pdf)
+42. [Rowel Atienza - Advanced Deep Learning with TensorFlow 2 and Keras, 2nd Edition](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Rowel%20Atienza%20-%20Advanced%20Deep%20Learning%20with%20TensorFlow%202%20and%20Keras_%20Apply%20DL%2C%20GANs%2C%20VAEs%2C%20deep%20RL%2C%20unsupervised%20learning%2C%20object%20detection%20and%20segmentation%2C%20and%20more%2C%202nd%20Edition-Packt%20Publishing%20%28202.pdf)
+
+
+
 43. [TensorFlow Developer Certificate Guide (2023)](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/TensorFlow%20Developer%20Certificate%20Guide%20(2023).pdf)
 44. [TensorFlow in Action](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/TensorFlow%20in%20Action.pdf)
 45. [The GAN Book](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/The%20GAN%20Book.pdf)
