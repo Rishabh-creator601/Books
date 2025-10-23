@@ -118,59 +118,60 @@
 
 ***
 
-### <ins> Ml-Dl-Broad </ins> 
-1) [2019 Generative Deep Learning Teaching Machines to Paint, Write, Compose, and Play by David Foster](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/2019%20Generative%20Deep%20Learning%20Teaching%20Machines%20to%20Paint,%20Write,%20Compose,%20and%20Play%20by%20David%20Foster.pdf)
-2) [6185 Machine Learning in Action](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/6185.Machine%20Learning%20in%20Action.pdf)
-3) [Advanced Deep Learning with TensorFlow 2 and Keras](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Advanced%20Deep%20Learning%20with%20TensorFlow%202%20and%20Keras.pdf)
-4) [AI and ml for coders b1](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/AI%20and%20ml%20for%20coders%20b1[H].pdf)
-5) ai-machine-learning-coders-programmers 🌟
-6) Ankur A Patel Hands On Unsupervised Learning Using Python How to 🌟
-7) [Applied DL PyTorch](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Applied%20DL%20PyTorch.pdf)
-8) [Auto Ml](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Auto%20Ml.pdf)
-9) [Building Machine Learning Systems with Python - Richert, Coelho](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Building%20Machine%20Learning%20Systems%20with%20Python%20-%20Richert,%20Coelho.pdf)
-10) [Building Machine Learning Systems with Python - Second Edition](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Building%20Machine%20Learning%20Systems%20with%20Python%20-%20Second%20Edition.pdf)
-11) [Building Recommendation Systems in Python and JAX](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Building%20Recommendation%20Systems%20in%20Python%20and%20JAX.pdf)
-12) [building-machine-learning-projects-tensorflow](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/building-machine-learning-projects-tensorflow.pdf)
-13) [Data Preparation for Machine Learning Data Cleaning, Feature Selection, and Data Transforms in Python by Jason Brownlee](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Data%20Preparation%20for%20Machine%20Learning%20Data%20Cleaning,%20Feature%20Selection,%20and%20Data%20Transforms%20in%20Python%20by%20Jason%20Brownlee%20(z-lib.org).pdf)
-14) [debugging-nns](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/debugging-nns.pdf)
-15) [Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python by Jason Brownlee](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Deep%20Learning%20for%20Time%20Series%20Forecasting%20-%20Predict%20the%20Future%20with%20MLPs,%20CNNs%20and%20LSTMs%20in%20Python%20by%20Jason%20Brownlee%20(z-lib.org).pdf)
-16) [Deep Learning with Applications Using Python  Chatbots and Face, Object, and Speech Recognition with Tensorflow and Keras](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Deep%20Learning%20with%20Applications%20Using%20Python_%20Chatbots%20and%20Face,%20Object,%20and%20Speech%20Recognition%20with%20Tensorflow%20and%20Keras%20(%20PDFDrive%20).pdf)
-17) Deep Learning with Python part 2  🌟
-18) Deep Learning with Python  🌟
-19) [Deep-Learning-with-PyTorch](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Deep-Learning-with-PyTorch.pdf)
-20) [Deep Learning for Coders with fastai and PyTorch](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Deep.Learning.for.Coders.with.fastai.and.PyTorch.pdf)
-21) [Elements of statistical Learning](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Elements%20of%20statistical%20Learning.pdf)
-22) [Feature Engineering for Machine Learning  Principles and Techniques for Data Scientists](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Feature%20Engineering%20for%20Machine%20Learning_%20Principles%20and%20Techniques%20for%20Data%20Scientists.pdf)
-23) [Fundamentals of Deep Learning](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Fundamentals%20of%20Deep%20Learning.pdf)
-24) [gans in action](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/gans_in_action.pdf)
-25) [Generative Adversarial Networks with Python Deep Learning Generative Models for Image Synthesis and Image Translation by Jason Brownlee](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Generative%20Adversarial%20Networks%20with%20Python%20Deep%20Learning%20Generative%20Models%20for%20Image%20Synthesis%20and%20Image%20Translation%20by%20Jason%20Brownlee%20(z-lib.org).pdf)
-26) [Generative Deep Learning Teaching Machines to Paint, Write, Compose, and Play by David Foster](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/2019%20Generative%20Deep%20Learning%20Teaching%20Machines%20to%20Paint,%20Write,%20Compose,%20and%20Play%20by%20David%20Foster.pdf)
-27) [Graph Neural network guide](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Graph%20Neural%20network%20guide.pdf)
-28) [Hands On Machine Learning with Scikit Learn and TensorFlow](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
-29) [Imbalanced Classification with Python Choose Better Metrics, Balance Skewed Classes, and Apply Cost-Sensitive Learning by Jason Brownlee](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Imbalanced%20Classification%20with%20Python%20Choose%20Better%20Metrics,%20Balance%20Skewed%20Classes,%20and%20Apply%20Cost-Sensitive%20Learning%20by%20Jason%20Brownlee%20(z-lib.org).pdf)
-30) [Inside Deep Learning Math, Algorithms, Models Edward Raff Manning](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Inside_Deep_Learning_Math,_Algorithms,_Models_Edward_Raff_Manning.pdf)
-31) [Introduction to Machine Learning with Python  -min](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Introduction%20to%20Machine%20Learning%20with%20Python%20(%20PDFDrive.com%20)-min.pdf)
-32) [Introduction to Time Series Forecasting with Python How to Prepare Data and Develop Models to Predict the Future by Jason Brownlee](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Introduction%20to%20Time%20Series%20Forecasting%20with%20Python%20How%20to%20Prepare%20Data%20and%20Develop%20Models%20to%20Predict%20the%20Future%20by%20Jason%20Brownlee%20(z-lib.org).pdf)
-33) [Learning TensorFlow - a guide to building deep learning   Hope, Tom;Lieder, Italy;Resheff, Yehezkel S](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Learning%20TensorFlow%20-%20a%20guide%20to%20building%20deep%20learning%20--%20Hope,%20Tom;Lieder,%20Italy;Resheff,%20Yehezkel%20S%20--%20(%20WeLib.org%20).pdf)
-34) [Machine Learning and Data Science  An Introduction to Statistical Learning Methods with R](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Machine%20Learning%20and%20Data%20Science_%20An%20Introduction%20to%20Statistical%20Learning%20Methods%20with%20R.pdf)
-35) [machine learning and torch](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/machine%20learning%20and%20torch.pdf)
-36) [Machine Learning for the Web](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Machine%20Learning%20for%20the%20Web.pdf)
-37) [Machine Learning for the Web  Explore the web and make smarter predictions using Python](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Machine%20Learning%20for%20the%20Web.pdf)
-38) [Machine Learning some projects](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Machine%20Learning%20some%20projects.pdf)
-39) [Machine Learning with TensorFlow](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Machine%20Learning%20with%20TensorFlow.pdf)
-40) [neural network from scratch 🌟 [sentdex book]](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/neural%20network%20from%20scratch.pdf)
-41) [Practical Recommender Systems - Kim Falk (Manning, 2019)](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Practical%20Recommender%20Systems%20-%20Kim%20Falk%20(Manning,%202019).pdf)
-42) [PracticalStatisticsforDataScientists50EssentialConceptsUsingRandPythonbyPeterBruceAndrewBrucePeterGedeck](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/PracticalStatisticsforDataScientists50EssentialConceptsUsingRandPythonbyPeterBruceAndrewBrucePeterGedeck.pdf)
-43) [Pro Machine Learning Algorithms](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Pro%20Machine%20Learning%20Algorithms.pdf)
-44) [Programming PyTorch for Deep Learning (2020)](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Programming%20PyTorch%20for%20Deep%20Learning%20(2020).pdf)
-45) [programming-pytorch-for-deep-learning-creating-and-deploying-deep-learning-applications](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/programming-pytorch-for-deep-learning-creating-and-deploying-deep-learning-applications.pdf)
-46) [Recommednation system guide](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Recommednation%20system%20guide[H].pdf)
-47) [Rowel Atienza - Advanced Deep Learning with TensorFlow 2 and Keras  Apply DL, GANs, VAEs, deep RL, unsupervised learning, object detection and segmentation, and more, 2nd Edition-Packt Publishing (202](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Advanced%20Deep%20Learning%20with%20TensorFlow%202%20and%20Keras.pdf)
-48) [TensorFlow Developer Certificate Guide (2023)](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/TensorFlow%20Developer%20Certificate%20Guide%20(2023).pdf)
-49) [TensorFlow in Action](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/TensorFlow%20in%20Action.pdf)
-50) [The GAN Book](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/The%20GAN%20Book.pdf)
-51) [The Hundred Page Machine Learning BOOK 🌟](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/The%20Hundred%20Page%20Machine%20Learning%20BOOK.pdf)
-52) [torch-mech-algorthsm  🌟](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/torch-mech-algorthsm[H].pdf)
+### <ins>ML-DL-Broad</ins>
+
+1. [2019 Generative Deep Learning Teaching Machines to Paint, Write, Compose, and Play by David Foster](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/2019%20Generative%20Deep%20Learning%20Teaching%20Machines%20to%20Paint,%20Write,%20Compose,%20and%20Play%20by%20David%20Foster.pdf)
+2. [6185 Machine Learning in Action](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/6185.Machine%20Learning%20in%20Action.pdf)
+3. [AI and ML for Coders B1 🌟](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/AI%20and%20ml%20for%20coders%20b1[H].pdf)
+4. [Advanced Deep Learning with TensorFlow 2 and Keras](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Advanced%20Deep%20Learning%20with%20TensorFlow%202%20and%20Keras.pdf)
+5. [Ankur A Patel Hands On Unsupervised Learning Using Python 🌟](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Ankur_A_Patel_Hands_On_Unsupervised_Learning_Using_Python_How_to[H].pdf)
+6. [Applied DL PyTorch](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Applied%20DL%20PyTorch.pdf)
+7. [Auto ML](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Auto%20Ml.pdf)
+8. [Building Machine Learning Systems with Python - Richert, Coelho](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Building%20Machine%20Learning%20Systems%20with%20Python%20-%20Richert,%20Coelho.pdf)
+9. [Building Machine Learning Systems with Python - Second Edition](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Building%20Machine%20Learning%20Systems%20with%20Python%20-%20Second%20Edition.pdf)
+10. [Building Recommendation Systems in Python and JAX](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Building%20Recommendation%20Systems%20in%20Python%20and%20JAX.pdf)
+11. [Data Preparation for Machine Learning: Data Cleaning, Feature Selection, and Data Transforms in Python by Jason Brownlee](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Data%20Preparation%20for%20Machine%20Learning%20Data%20Cleaning,%20Feature%20Selection,%20and%20Data%20Transforms%20in%20Python%20by%20Jason%20Brownlee%20(z-lib.org).pdf)
+12. [Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python by Jason Brownlee](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Deep%20Learning%20for%20Time%20Series%20Forecasting%20-%20Predict%20the%20Future%20with%20MLPs,%20CNNs%20and%20LSTMs%20in%20Python%20by%20Jason%20Brownlee%20(z-lib.org).pdf)
+13. [Deep Learning with Applications Using Python: Chatbots, Face, Object, and Speech Recognition with TensorFlow and Keras](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Deep%20Learning%20with%20Applications%20Using%20Python_%20Chatbots%20and%20Face,%20Object,%20and%20Speech%20Recognition%20with%20Tensorflow%20and%20Keras%20(%20PDFDrive%20).pdf)
+14. [Deep Learning with Python part 2 🌟](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Deep%20Learning%20with%20Python%20part%202[H].pdf)
+15. [Deep Learning with Python 🌟](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Deep%20Learning%20with%20Python[H].pdf)
+16. [Deep Learning with PyTorch](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Deep-Learning-with-PyTorch.pdf)
+17. [Deep Learning for Coders with fastai and PyTorch](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Deep.Learning.for.Coders.with.fastai.and.PyTorch.pdf)
+18. [Elements of Statistical Learning](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Elements%20of%20statistical%20Learning.pdf)
+19. [Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Feature%20Engineering%20for%20Machine%20Learning_%20Principles%20and%20Techniques%20for%20Data%20Scientists.pdf)
+20. [Fundamentals of Deep Learning](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Fundamentals%20of%20Deep%20Learning.pdf)
+21. [Generative Adversarial Networks with Python by Jason Brownlee](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Generative%20Adversarial%20Networks%20with%20Python%20Deep%20Learning%20Generative%20Models%20for%20Image%20Synthesis%20and%20Image%20Translation%20by%20Jason%20Brownlee%20(z-lib.org).pdf)
+22. [Generative Deep Learning Teaching Machines to Paint, Write, Compose, and Play by David Foster](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Generative%20Deep%20Learning%20Teaching%20Machines%20to%20Paint,%20Write,%20Compose,%20and%20Play%20by%20David%20Foster.pdf)
+23. [Graph Neural Network Guide](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Graph%20Neural%20network%20guide.pdf)
+24. [Hands-On Machine Learning with Scikit Learn and TensorFlow](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
+25. [Imbalanced Classification with Python by Jason Brownlee](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Imbalanced%20Classification%20with%20Python%20Choose%20Better%20Metrics,%20Balance%20Skewed%20Classes,%20and%20Apply%20Cost-Sensitive%20Learning%20by%20Jason%20Brownlee%20(z-lib.org).pdf)
+26. [Inside Deep Learning: Math, Algorithms, Models by Edward Raff Manning](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Inside_Deep_Learning_Math,_Algorithms,_Models_Edward_Raff_Manning.pdf)
+27. [Introduction to Machine Learning with Python - min](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Introduction%20to%20Machine%20Learning%20with%20Python%20(%20PDFDrive.com%20)-min.pdf)
+28. [Introduction to Time Series Forecasting with Python by Jason Brownlee](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Introduction%20to%20Time%20Series%20Forecasting%20with%20Python%20How%20to%20Prepare%20Data%20and%20Develop%20Models%20to%20Predict%20the%20Future%20by%20Jason%20Brownlee%20(z-lib.org).pdf)
+29. [Learning TensorFlow - A Guide to Building Deep Learning](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Learning%20TensorFlow%20-%20a%20guide%20to%20building%20deep%20learning%20--%20Hope,%20Tom;Lieder,%20Italy;Resheff,%20Yehezkel%20S%20--%20(%20WeLib.org%20).pdf)
+30. [Machine Learning and Data Science: An Introduction to Statistical Learning Methods with R](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Machine%20Learning%20and%20Data%20Science_%20An%20Introduction%20to%20Statistical%20Learning%20Methods%20with%20R.pdf)
+31. [Machine Learning for the Web](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Machine%20Learning%20for%20the%20Web.pdf)
+32. [Machine Learning for the Web: Explore the Web and Make Smarter Predictions Using Python](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Machine%20Learning%20for%20the%20Web_%20Explore%20the%20web%20and%20make%20smarter%20predictions%20using%20Python.pdf)
+33. [Machine Learning Some Projects](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Machine%20Learning%20some%20projects.pdf)
+34. [Machine Learning with TensorFlow](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Machine%20Learning%20with%20TensorFlow.pdf)
+35. [Neural Network from Scratch 🌟 [Sentdex Book]](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/neural%20network%20from%20scratch.pdf)
+36. [Practical Recommender Systems - Kim Falk (Manning, 2019)](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Practical%20Recommender%20Systems%20-%20Kim%20Falk%20(Manning,%202019).pdf)
+37. [Practical Statistics for Data Scientists: 50 Essential Concepts Using R and Python](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/PracticalStatisticsforDataScientists50EssentialConceptsUsingRandPythonbyPeterBruceAndrewBrucePeterGedeck.pdf)
+38. [Pro Machine Learning Algorithms](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Pro%20Machine%20Learning%20Algorithms.pdf)
+39. [Programming PyTorch for Deep Learning (2020)](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Programming%20PyTorch%20for%20Deep%20Learning%20(2020).pdf)
+40. [Programming PyTorch for Deep Learning: Creating and Deploying Deep Learning Applications](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/programming-pytorch-for-deep-learning-creating-and-deploying-deep-learning-applications.pdf)
+41. [Recommendation System Guide 🌟](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Recommednation%20system%20guide[H].pdf)
+42. [Rowel Atienza - Advanced Deep Learning with TensorFlow 2 and Keras, 2nd Edition](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Rowel%20Atienza%20-%20Advanced%20Deep%20Learning%20with%20TensorFlow%202%20and%20Keras_%20Apply%20DL,%20GANs,%20VAEs,%20deep%20RL,%20unsupervised%20learning,%20object%20detection%20and%20segmentation,%20and%20more,%202nd%20Edition-Packt%20Publishing%20(202.pdf)
+43. [TensorFlow Developer Certificate Guide (2023)](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/TensorFlow%20Developer%20Certificate%20Guide%20(2023).pdf)
+44. [TensorFlow in Action](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/TensorFlow%20in%20Action.pdf)
+45. [The GAN Book](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/The%20GAN%20Book.pdf)
+46. [The Hundred Page Machine Learning Book 🌟](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/The%20Hundred%20Page%20Machine%20Learning%20BOOK.pdf)
+47. [AI-Machine-Learning-Coders-Programmers 🌟](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/ai-machine-learning-coders-programmers[H].pdf)
+48. [Building Machine Learning Projects with TensorFlow](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/building-machine-learning-projects-tensorflow.pdf)
+49. [Debugging NNs](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/debugging-nns.pdf)
+50. [GANs in Action](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/gans_in_action.pdf)
+51. [Machine Learning and Torch](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/machine%20learning%20and%20torch.pdf)
+52. [Torch-Mech-Algorthsm 🌟](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/torch-mech-algorthsm[H].pdf)
 
 
 
@@ -211,18 +212,19 @@
 3) [Influence  The Psychology of Persuasion](https://github.com/Rishabh-creator601/Books/blob/master/old_gold/Influence_%20The%20Psychology%20of%20Persuasion%20(%20PDFDrive%20).pdf)
 
 ***
+### <ins>Python_Books</ins>
+1. [Hypermodern Python Tooling](https://github.com/Rishabh-creator601/Books/blob/master/python_books/Hypermodern%20Python%20Tooling.pdf)
+2. [Learning Python](https://github.com/Rishabh-creator601/Books/blob/master/python_books/LearningPython.pdf)
+3. [Python Essential Reference, Fourth Edition](https://github.com/Rishabh-creator601/Books/blob/master/python_books/Python%20Essential%20Reference,%20Fourth%20Edition.pdf)
+4. [Python Concurrency with asyncio Matthew Fowler](https://github.com/Rishabh-creator601/Books/blob/master/python_books/Python_Concurrency_with_asyncio_Matthew_Fowler.pdf)
+5. [The Python Standard Library by Example](https://github.com/Rishabh-creator601/Books/blob/master/python_books/The%20Python%20Standard%20Library%20by%20Example.pdf)
+6. [[O`Reilly] - Programming Python, 4th ed - Lutz](https://github.com/Rishabh-creator601/Books/blob/master/python_books/[O%60Reilly]%20-%20Programming%20Python,%204th%20ed.%20-%20[Lutz].pdf%20(%20PDFDrive%20).pdf)
+7. [Core Application Programming](https://github.com/Rishabh-creator601/Books/blob/master/python_books/core%20application%20programming.pdf)
+8. [Effective Python](https://github.com/Rishabh-creator601/Books/blob/master/python_books/effective%20python.pdf)
+9. [Fluent Python 🌟](https://github.com/Rishabh-creator601/Books/blob/master/python_books/fluent%20python[H].pdf)
+10. [Python Cookbook](https://github.com/Rishabh-creator601/Books/blob/master/python_books/python%20cookbook.pdf)
 
-### <ins> Python_Books </ins> 
-1) [core application programming](https://github.com/Rishabh-creator601/Books/blob/master/python_books/core%20application%20programming.pdf)
-2) [effective python](https://github.com/Rishabh-creator601/Books/blob/master/python_books/effective%20python.pdf)
-3) fluent python 🌟
-4) [Hypermodern Python Tooling](https://github.com/Rishabh-creator601/Books/blob/master/python_books/Hypermodern%20Python%20Tooling.pdf)
-5) [LearningPython](https://github.com/Rishabh-creator601/Books/blob/master/python_books/LearningPython.pdf)
-6) [python cookbook](https://github.com/Rishabh-creator601/Books/blob/master/python_books/python%20cookbook.pdf)
-7) [Python Essential Reference, Fourth Edition](https://github.com/Rishabh-creator601/Books/blob/master/python_books/Python%20Essential%20Reference,%20Fourth%20Edition.pdf)
-8) [Python Concurrency with asyncio Matthew Fowler](https://github.com/Rishabh-creator601/Books/blob/master/python_books/Python_Concurrency_with_asyncio_Matthew_Fowler.pdf)
-9) [The Python Standard Library by Example](https://github.com/Rishabh-creator601/Books/blob/master/python_books/The%20Python%20Standard%20Library%20by%20Example.pdf)
-10) [[O`Reilly] - Programming Python, 4th ed  - [Lutz]](https://github.com/Rishabh-creator601/Books/blob/master/python_books/[O%60Reilly]%20-%20Programming%20Python,%204th%20ed.%20-%20[Lutz].pdf%20(%20PDFDrive%20).pdf)
+
 
 
 
@@ -265,11 +267,13 @@
 2) [Precalculus](https://github.com/Rishabh-creator601/Books/blob/master/maths/Calculus%20(%20PDFDrive%20).pdf)
 3) [precalculus-mathematics-for-calculus-6th-edition-pdf](https://github.com/Rishabh-creator601/Books/blob/master/maths/Calculus%20(%20PDFDrive%20).pdf)
 
-### <ins> Stats </ins> 
-1) BEST BOOK OF STATS  MENIUM 🌟
-2) [Hypothesis Testing - ANOVA](https://github.com/Rishabh-creator601/Books/blob/master/stats/Hypothesis%20Testing%20-%20ANOVA.pdf)
-3) [Hypothesis Testing - Chi Square Distribution](https://github.com/Rishabh-creator601/Books/blob/master/stats/Hypothesis%20Testing%20-%20Chi%20Square%20Distribution.pdf)
-4) Practical Statistics for Data Scientists 🌟
+### <ins>Stats</ins>
+1. [Best Book of Stats Menium 🌟](https://github.com/Rishabh-creator601/Books/blob/master/stats/BEST%20BOOK%20OF%20STATS_%20MENIUM[H].pdf)
+2. [Hypothesis Testing - ANOVA](https://github.com/Rishabh-creator601/Books/blob/master/stats/Hypothesis%20Testing%20-%20ANOVA.pdf)
+3. [Hypothesis Testing - Chi Square Distribution](https://github.com/Rishabh-creator601/Books/blob/master/stats/Hypothesis%20Testing%20-%20Chi%20Square%20Distribution.pdf)
+4. [Practical Statistics for Data Scientists 🌟](https://github.com/Rishabh-creator601/Books/blob/master/stats/Practical%20Statistics%20for%20Data%20Scientists[H].pdf)
+
+
 
 ***
 
