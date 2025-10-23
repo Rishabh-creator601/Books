@@ -118,7 +118,7 @@
 ***
 
 ### <ins> Ml-Dl-Broad </ins> 
-) [2019 Generative Deep Learning Teaching Machines to Paint, Write, Compose, and Play by David Foster](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/2019%20Generative%20Deep%20Learning%20Teaching%20Machines%20to%20Paint,%20Write,%20Compose,%20and%20Play%20by%20David%20Foster.pdf)
+1) [2019 Generative Deep Learning Teaching Machines to Paint, Write, Compose, and Play by David Foster](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/2019%20Generative%20Deep%20Learning%20Teaching%20Machines%20to%20Paint,%20Write,%20Compose,%20and%20Play%20by%20David%20Foster.pdf)
 2) [6185 Machine Learning in Action](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/6185.Machine%20Learning%20in%20Action.pdf)
 3) [Advanced Deep Learning with TensorFlow 2 and Keras](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/Advanced%20Deep%20Learning%20with%20TensorFlow%202%20and%20Keras.pdf)
 4) [AI and ml for coders b1](https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/AI%20and%20ml%20for%20coders%20b1[H].pdf)
