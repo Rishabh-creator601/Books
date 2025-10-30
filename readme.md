@@ -1,6 +1,7 @@
 
 # ✨ Comprehensive Study Resources ✨
 **A curated collection of books and references** for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.
+**A collection of more than 200+  programming ebooks at one place at no cost**
 
 ![alt text](./__assets/book_banner.png)
 
