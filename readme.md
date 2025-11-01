@@ -6,6 +6,14 @@
 ![alt text](./__assets/book_banner.png)
 
 
+***Before moving ahead with my sources 
+Here is the list of Cool sites that i found worth mentioning 
+and you must visit it just once ... just once... ☝️☝️***
+
+1. [Goal Kicker](https://goalkicker.com/)
+2. [RoadMap.sh](https://roadmap.sh/)
+
+
 
 ## Symbol Table
 
