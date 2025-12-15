@@ -13,7 +13,6 @@ and you must visit it just once ... just once... ☝️☝️***
 1. [Goal Kicker](https://goalkicker.com/)
 2. [RoadMap.sh](https://roadmap.sh/)
 
-#### For full roadmap and how to use this repo U check out my article on this :  [Roadmap | Rishabh](https://medium.com/@rashesh369/roadmap-that-made-me-expert-in-aiml-in-just-4-months-c87bd191ead9)
 
 
 
