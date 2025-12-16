@@ -14,6 +14,7 @@ and you must visit it just once ... just once... ☝️☝️***
 2. [RoadMap.sh](https://roadmap.sh/)
 
 
+**if U want in proper blog format : Roadmap : AIML | Medium**
 
 
 ## Symbol Table
