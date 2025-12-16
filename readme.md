@@ -14,7 +14,10 @@ and you must visit it just once ... just once... ☝️☝️***
 2. [RoadMap.sh](https://roadmap.sh/)
 
 
-**if U want in proper blog format : Roadmap : AIML | Medium**
+**if U want in proper blog format :**
+1) [Roadmap : AIML | Medium](https://medium.com/h7w/roadmap-that-made-me-expert-in-aiml-in-just-4-months-c87bd191ead9)
+2) [Roadmap 2 : AIML | medium](https://medium.com/@rashesh369/a-practical-ai-ml-roadmap-that-took-me-from-beginner-to-professional-in-30-days-1c48ce8ebeca)
+
 
 
 ## Symbol Table
