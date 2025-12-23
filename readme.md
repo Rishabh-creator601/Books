@@ -14,9 +14,17 @@ and you must visit it just once ... just once... ☝️☝️***
 2. [RoadMap.sh](https://roadmap.sh/)
 
 
-**if U want in proper blog format :**
-1) [Roadmap : AIML | Medium](https://medium.com/h7w/roadmap-that-made-me-expert-in-aiml-in-just-4-months-c87bd191ead9)
-2) [Roadmap 2 : AIML | medium](https://medium.com/@rashesh369/a-practical-ai-ml-roadmap-that-took-me-from-beginner-to-professional-in-30-days-1c48ce8ebeca)
+<hr /> 
+
+## Roadmap for AIML (Beginners)
+**If you prefer everything in a proper blog format, I’ve written detailed guides that cover:**
+
+- where to start ?
+- what exact topics to focus on ?
+- and how to progress in the right order
+
+Roadmap guide (Part 1): Roadmap : [AIML | Medium](https://medium.com/@rashesh369/roadmap-that-made-me-expert-in-aiml-in-just-4-months-c87bd191ead9) <br />
+Detailed topics breakdown (Part 2): Roadmap 2 : [AIML | medium](https://medium.com/h7w/a-practical-ai-ml-roadmap-that-took-me-from-beginner-to-professional-in-30-days-1c48ce8ebeca)
 
 
 
