@@ -6,13 +6,14 @@
 ![alt text](./__assets/book_banner.png)
 
 
-***Before moving ahead with my sources 
-Here is the list of Cool sites that i found worth mentioning 
-and you must visit it just once ... just once... ☝️☝️***
+**Before We Dive In, Here Are Some Cool Sites You Should Visit at Least Once**
 
 1. [Goal Kicker](https://goalkicker.com/)
 2. [RoadMap.sh](https://roadmap.sh/)
-
+3. [MlCourse.ai](https://mlcourse.ai/book/index.html)
+4. [dl2.ai](https://d2l.ai/)
+5. [Devops for DataScience](https://do4ds.com/)
+6. [for LLMS Enthusiasts](https://comfyai.app/about)
 
 <hr /> 
 
