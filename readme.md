@@ -10,11 +10,12 @@
 
 1. [Goal Kicker](https://goalkicker.com/)
 2. [RoadMap.sh](https://roadmap.sh/)
-3. [MlCourse.ai](https://mlcourse.ai/book/index.html)
-4. [dl2.ai](https://d2l.ai/)
+3. [MlCourse.ai](https://mlcourse.ai/book/index.html) - classic ml
+4. [dl2.ai](https://d2l.ai/) - Main DL concepts with clear explanation and practical implementation
 5. [Devops for DataScience](https://do4ds.com/)
 6. [for LLMS Enthusiasts](https://comfyai.app/about)
 
+(this small roadmap compiled by [Marian](https://github.com/MarianSlassi))
 <hr /> 
 
 ## Roadmap for AIML (Beginners)
