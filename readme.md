@@ -15,7 +15,7 @@
 5. [Devops for DataScience](https://do4ds.com/)
 6. [for LLMS Enthusiasts](https://comfyai.app/about)
 
-(this small roadmap compiled by [Marian](https://github.com/MarianSlassi))
+(*a small collection of links shared by [Marian](https://github.com/MarianSlassi) covering ML, DL, DevOps, and LLM tools.)
 <hr /> 
 
 ## Roadmap for AIML (Beginners)
