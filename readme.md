@@ -96,14 +96,13 @@ Detailed topics breakdown (Part 2): Roadmap 2 : [AIML | medium](https://medium.c
 
 #### *JavaScript / TypeScript / Web / ML Books*
 
-1) [Learning PHP, MySQL & JavaScript (Nixon, 6th Edition, 2021)](https://github.com/Rishabh-creator601/Books/blob/master/Lang-other/Nixon_R_Learning_PHP,_MySQL_&_JavaScript_6th_Edition_2021.pdf)
-2) [React Brochure](https://github.com/Rishabh-creator601/Books/blob/master/Lang-other/React%20Brochure.pdf)
-3) [Unpacking Intermediate JavaScript](https://github.com/Rishabh-creator601/Books/blob/master/Lang-other/Unpacking%20Intermediate%20JavaScript.pdf)
-4) [Text Processing with JavaScript](https://github.com/Rishabh-creator601/Books/blob/master/Lang-other/Text%20Processing%20with%20JavaScript.pdf)
-5) [You Don’t Know JS: Async & Performance](https://github.com/Rishabh-creator601/Books/blob/master/Lang-other/You%20Don't%20Know%20JS%20Async%20&%20Performance.pdf)
-6) [You Don’t Know JS: ES6 & Beyond (Kyle Simpson)](https://github.com/Rishabh-creator601/Books/blob/master/Lang-other/You%20Don't%20Know%20JS%20ES6%20&%20Beyond.pdf)
-7) [Effective TypeScript](https://github.com/Rishabh-creator601/Books/blob/master/Lang-other/Effective%20Typescript.pdf)
-8) [Learning TensorFlow.js (Gant Laborde)](https://github.com/Rishabh-creator601/Books/blob/master/Lang-other/Learning%20TensorFlow.js.pdf)
+1) [React Brochure](https://github.com/Rishabh-creator601/Books/blob/master/Lang-other/React%20Brochure.pdf)
+2) [Unpacking Intermediate JavaScript](https://github.com/Rishabh-creator601/Books/blob/master/Lang-other/Unpacking%20Intermediate%20JavaScript.pdf)
+3) [Text Processing with JavaScript](https://github.com/Rishabh-creator601/Books/blob/master/Lang-other/Text%20Processing%20with%20JavaScript.pdf)
+4) [You Don’t Know JS: Async & Performance](https://github.com/Rishabh-creator601/Books/blob/master/Lang-other/You%20Don't%20Know%20JS%20Async%20&%20Performance.pdf)
+5) [You Don’t Know JS: ES6 & Beyond (Kyle Simpson)](https://github.com/Rishabh-creator601/Books/blob/master/Lang-other/You%20Don't%20Know%20JS%20ES6%20&%20Beyond.pdf)
+6) [Effective TypeScript](https://github.com/Rishabh-creator601/Books/blob/master/Lang-other/Effective%20Typescript.pdf)
+7) [Learning TensorFlow.js (Gant Laborde)](https://github.com/Rishabh-creator601/Books/blob/master/Lang-other/Learning%20TensorFlow.js.pdf)
 
 
 
